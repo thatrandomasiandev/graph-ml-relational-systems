@@ -1,0 +1,9 @@
+models: [GCN, GraphSAGE]
+n_nodes_list: [200, 400]
+n_communities: 4
+feature_dim: 16
+p_in: 0.25
+p_out: 0.02
+train_ratio: 0.7
+val_ratio: 0.15
+seeds: [42, 43]

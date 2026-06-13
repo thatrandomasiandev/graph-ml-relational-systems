@@ -1,0 +1,8 @@
+models: [RollingGCN]
+n_nodes: 150
+n_snapshots: 12
+feature_dim: 12
+drift_strength: 0.15
+k_neighbors: 8
+history_window: 3
+seeds: [42, 43]
