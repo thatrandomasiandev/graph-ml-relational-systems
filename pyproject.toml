@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "graph-ml"
 version = "0.1.0"
-description = "PhD-level graph ML suite: GNNs, link prediction, and temporal relational systems"
+description = "Research benchmarks for GNNs, link prediction, and temporal graph forecasting"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
